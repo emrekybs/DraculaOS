@@ -17,7 +17,6 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/fuzzer.png">
 
 
-
 "DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools"
 
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/dracula.png">
@@ -41,8 +40,6 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * Eciftool
 * Exiflooter
 * MetaDetective
-
-<img src="https://github.com/emrekybs/DraculaOS-/blob/main/4.png">
 
 ## Anonymous
 * TorGhost
@@ -117,6 +114,8 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * UserFinder
 * Dracula
 
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/4.png">
+
 ## Recon
 * Domain Analyzer
 * Whatweb
@@ -127,8 +126,6 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 
 ## MAPS
 * FoxtrotGPS
-
-<img src="https://github.com/emrekybs/DraculaOS-/blob/main/backgrounds.png">
 
 ## DOWNLOAD
 The download link for the DRACULA Os OVA can be found at the following link.
