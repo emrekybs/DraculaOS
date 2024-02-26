@@ -1,5 +1,7 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
 
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/draculaos.png">
+
 ## DRACULA OS 🧛🏻‍♀️ 
 Dracula OS is a cutting-edge Linux operating system meticulously designed for OSINT (Open Source Intelligence) and Cyber Intelligence tasks. 
 Distinguished by its use of Kali Linux's vast repositories, Dracula OS enriches its arsenal with an exclusive selection of OSINT tools sourced from GitHub. 
@@ -9,6 +11,9 @@ The inception of Dracula OS sprang from the ambition to create a specialized too
 The result is a sophisticated operating system that not only harnesses Kali Linux's extensive suite of tools but also integrates a carefully chosen collection of OSINT applications from the vibrant GitHub community.
 
 Dracula OS is inspired by and seeks to contribute to the legacy of pioneering projects like Trace Labs VM and CyberPunkOS, aiming to push the boundaries of what is possible in cyber intelligence and open-source intelligence gathering.
+
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/fuzzer.png">
+
 
 
 # DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
@@ -31,6 +36,8 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * Eciftool
 * Exiflooter
 * MetaDetective
+
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/4.png">
 
 ## Anonymous
 * TorGhost
@@ -115,7 +122,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 
 ## MAPS
 * FoxtrotGPS
-
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/4.png">
 
 
 
