@@ -125,7 +125,6 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 
 ## MAPS
 * FoxtrotGPS
-<img src="https://github.com/emrekybs/DraculaOS-/blob/main/4.png">
 
 
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/backgrounds.png">
