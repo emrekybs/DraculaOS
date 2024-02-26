@@ -1,5 +1,7 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
 
+Kali Linux based OVA file for OSINT investigations and Cyber Intelligence.
+
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/7.png">
 
 ## DRACULA OS 🧛🏻‍♀️ 
@@ -126,10 +128,24 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 ## MAPS
 * FoxtrotGPS
 
-
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/backgrounds.png">
 
+## DOWNLOAD
+The download link for the DRACULA Os OVA can be found at the following link.
+The DraculaOs OVA download file is 8 GB in size.
 
+MEGA: https://mega.nz/folder/lylQ1R5K#_g8Wzdxaw0yiOQOFtCKLrA
+To access the machine, the following credentials are required:
+
+* User: root
+* Password: dracula
+
+
+## Feedback
+If you have any feedback,suggestions or comments please reach out to me at emrekoybasi@protonmail.com
+
+## Disclaimer
+Educational Purpose Only: This software is provided for educational purposes only. It is not intended for production use or any critical applications.
 
 
 
