@@ -9,7 +9,7 @@ The result is a sophisticated operating system that not only harnesses Kali Linu
 Dracula OS is inspired by and seeks to contribute to the legacy of pioneering projects like Trace Labs VM and CyberPunkOS, aiming to push the boundaries of what is possible in cyber intelligence and open-source intelligence gathering.
 
 
-## DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
+# DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
 
 ## Frameworks
 * Amass
@@ -60,7 +60,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * Dracula Fuzzer
 * 403-Bypass
 
-### OSINT
+# OSINT && Cyber Intelligence
 ## OSINT-ALL IN ONE
 * SEEKR
 * SIGIT
@@ -103,7 +103,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * UserFinder
 * Dracula
 
-# RECOM
+## Recon
 * Domain Analyzer
 * Whatweb
 * Wpscan
@@ -111,7 +111,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * ProjectDiscovery 
 * EmailHarvester
 
-# MAPS
+## MAPS
 * FoxtrotGPS
 
 
