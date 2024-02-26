@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
 
-<img src="https://github.com/emrekybs/DraculaOS-/blob/main/draculaos.png">
+<img src="https://github.com/emrekybs/DraculaOS-/blob/main/7.png">
 
 ## DRACULA OS 🧛🏻‍♀️ 
 Dracula OS is a cutting-edge Linux operating system meticulously designed for OSINT (Open Source Intelligence) and Cyber Intelligence tasks. 
