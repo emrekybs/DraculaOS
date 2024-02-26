@@ -1,4 +1,6 @@
-## DRACULA OS 
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
+
+## DRACULA OS 🧛🏻‍♀️ 
 Dracula OS is a cutting-edge Linux operating system meticulously designed for OSINT (Open Source Intelligence) and Cyber Intelligence tasks. 
 Distinguished by its use of Kali Linux's vast repositories, Dracula OS enriches its arsenal with an exclusive selection of OSINT tools sourced from GitHub. 
 This initiative aims to forge a platform supremely fitted for the discerning demands of cyber intelligence professionals and enthusiasts alike, providing a direct import OVA (Open Virtual Appliance) file for effortless deployment and operation.
@@ -9,7 +11,7 @@ The result is a sophisticated operating system that not only harnesses Kali Linu
 Dracula OS is inspired by and seeks to contribute to the legacy of pioneering projects like Trace Labs VM and CyberPunkOS, aiming to push the boundaries of what is possible in cyber intelligence and open-source intelligence gathering.
 
 
-DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
+# DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
 
 ## Frameworks
 * Amass
