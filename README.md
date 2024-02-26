@@ -16,7 +16,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 
 
 
-## DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools:
+"DRACULA OS Tools is a submenu where you will find the following OSINT and Cyber Intelligence tools"
 
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/dracula.png">
 
