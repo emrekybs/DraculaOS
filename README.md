@@ -134,7 +134,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 The download link for the DRACULA Os OVA can be found at the following link.
 The DraculaOs OVA download file is 8 GB in size.
 
-MEGA: https://mega.nz/folder/lylQ1R5K#_g8Wzdxaw0yiOQOFtCKLrA
+https://mega.nz/file/569AXCBT#DwXtsbHUtdf-K0eHdx578WpbL-2r63tZHqUkUD4WwzQ
 To access the machine, the following credentials are required:
 
 * User: root
