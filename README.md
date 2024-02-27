@@ -14,6 +14,8 @@ The result is a sophisticated operating system that not only harnesses Kali Linu
 
 Dracula OS is inspired by and seeks to contribute to the legacy of pioneering projects like Trace Labs VM and CyberPunkOS, aiming to push the boundaries of what is possible in cyber intelligence and open-source intelligence gathering.
 
+## Theme by https://github.com/dracula
+
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/fuzzer.png">
 
 
