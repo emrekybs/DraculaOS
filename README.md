@@ -70,6 +70,7 @@ Dracula OS is inspired by and seeks to contribute to the legacy of pioneering pr
 * Katana
 * Dracula Fuzzer
 * 403-Bypass
+* Crawl
 
 # OSINT && Cyber Intelligence
 ## OSINT-ALL IN ONE
