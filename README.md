@@ -42,6 +42,7 @@ Theme by https://github.com/dracula
 * Eciftool
 * Exiflooter
 * MetaDetective
+* Pywhat
 
 ## Anonymous
 * TorGhost
