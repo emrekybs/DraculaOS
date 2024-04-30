@@ -2,6 +2,10 @@
 
 Kali Linux based OVA file for OSINT investigations and Cyber Intelligence.
 
+## DOWNLOAD
+The download link for the DRACULA Os OVA can be found at the following link.
+The DraculaOs OVA download file is 8 GB in size.
+
 <img src="https://github.com/emrekybs/DraculaOS-/blob/main/7.png">
 
 ## DRACULA OS 🧛🏻‍♀️ 
